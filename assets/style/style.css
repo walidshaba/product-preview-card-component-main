@@ -36,7 +36,6 @@ body {
 .comp-container {
   display: flex;
   align-items: center;
-
   background-color: var(--white);
   height: 450px;
   width: 600px;
@@ -164,13 +163,12 @@ div {
     align-items: center;
     background-color: var(--white);
     height: 713px;
-    width: 400px;
+    width: 300px;
     flex-direction: column;
     transition: all ease-in-out 0.35s;
     margin-top: 30px;
   }
   div {
-    width: 400px;
     height: 100%;
     /* display: inline-block; */
     border-top-right-radius: 10px;
