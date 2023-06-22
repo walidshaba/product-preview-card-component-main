@@ -220,6 +220,7 @@ div {
     justify-content: flex-start;
     font-family: var(--Montserrat);
     margin-bottom: 20px;
+    height: 40px;
   }
 
   .price .boldprice {
@@ -233,5 +234,18 @@ div {
     text-decoration: line-through;
     line-height: 40px;
     color: var(--darkGrayishBlue);
+  }
+
+  .add-price_btn {
+    display: flex;
+    background-color: var(--darkCyan);
+    height: 50px;
+    width: 85%;
+    padding: 15px 30px 15px 40px;
+    align-self: center;
+    border-radius: 10px;
+    color: var(--white);
+    justify-content: center;
+    transition: background-color ease-in-out 0.35s;
   }
 }
