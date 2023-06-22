@@ -35,7 +35,7 @@ Well the i had some basic challenges
 
 ### Links
 
-- Solution URL: [Add solution URL here](product-preview-card-component-main-g03l5si4c-walidshaba.vercel.app)
+- Solution URL: [Add solution URL here](https://github.com/walidshaba/product-preview-card-component-main.git)
 - Live Site URL: [Add live site URL here](https://product-preview-card-component-main-sigma-lilac.vercel.app/)
 
 ## My process
@@ -66,5 +66,3 @@ i did't Get my solutions from any resource.
 - Website - [Musa Shaba Mohammed](https://musashaba-1490d.web.app/)
 - Frontend Mentor - [@walidshaba](https://www.frontendmentor.io/profile/walidshaba)
 - Twitter - [@codewithmshaba](https://twitter.com/codewithmshaba)
-
-## Acknowledgments
