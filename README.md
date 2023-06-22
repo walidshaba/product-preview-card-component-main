@@ -65,6 +65,6 @@ i did't Get my solutions from any resource.
 
 - Website - [Musa Shaba Mohammed](https://musashaba-1490d.web.app/)
 - Frontend Mentor - [@walidshaba](https://www.frontendmentor.io/profile/walidshaba)
-- Twitter - [@codewithmshaba]()
+- Twitter - [@codewithmshaba](https://twitter.com/codewithmshaba)
 
 ## Acknowledgments
